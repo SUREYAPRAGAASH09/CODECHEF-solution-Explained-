@@ -4917,3 +4917,14 @@ Clue I found :
         3=932%929
         2=932%930
         467
+        
+        when you try analysis this data, we can get that afer getting max left over, left over after getting reduced one by one.
+        so 
+        102 / 2 = 51 + 1 = 52
+        after getting max left over 51, leftover get reducing after that.
+        like wise, 
+        208 / 2 = 104 + 1= 105 
+        ....
+        
+        and it will be same appilable for odd number also.
+        
