@@ -1,0 +1,18 @@
+                                                                                  How I Solved
+
+First of All we get the no of test case, we get process.
+Next get A and B values.
+
+For example , sample input :  10 20 means we need to verify that 
+                    
+                        "10 should be lesser  than 20" and 
+                    not "10 should be greater than 20" and 
+                    not "10 should be equal   than 20".
+                    
+likewise, for sample input 20 10 means we need to verify that 
+                    
+                        "10 should be greater than 20" and 
+                    not "10 should be lesser  than 20" and 
+                    not "10 should be equal   than 20".
+                    
+If any of the conditions not applied means -> the given input A and B must be equal to each other. 
